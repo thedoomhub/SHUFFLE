@@ -1,6 +1,9 @@
 Playlist Shuffler 
 (Originally meant for personal use)
 
+Itch.io link:
+https://donotknw.itch.io/playlist-shuffler
+
 =============================
 HOW TO RUN:
 =============================
